@@ -1,7 +1,7 @@
 /*Crea un array bidimensional de enteros y recórrelo, mostrando la posición y el valor de cada elemento en ambas dimensiones.
  */
 
-public class P2_ArrayBidimensional {
+public class P3_ArrayBidimensional {
     public static void main(String[] args) {
         int[][] num ={{8,9,15,1,5},{2,5,8,4,2}};
         int f= num.length;
