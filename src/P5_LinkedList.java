@@ -13,9 +13,9 @@ public class P5_LinkedList {
         LinkedList<String> lista = new LinkedList<String>();
 
         System.out.println("Meses del año almacenados en un array");
-        for (String mese : meses) {
-            System.out.println(mese);
-            lista.add(mese);
+        for (String mes : meses) {
+            System.out.println(mes);
+            lista.add(mes);
         }
         System.out.println("Los meses de año en una LinkedList...: "+lista);
     }
